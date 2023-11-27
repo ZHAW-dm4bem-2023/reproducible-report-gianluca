@@ -1,8 +1,0 @@
-name: your_environment_name  # Replace with your preferred environment name
-channels:
-  - defaults
-dependencies:
-  - python=3.8  # Replace with your preferred Python version
-  - pandas
-  - numpy
-  - matplotlib
