@@ -1,0 +1,3 @@
+type,Material,Conductivity,Specific heat,Density,Width,Mesh
+0,Insulation EPS,0.04,840,80,0.1,16
+0,Honeycomb Brick,0.22,1000,800,0.32,56
